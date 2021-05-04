@@ -1,0 +1,20 @@
+org/emulator/core/shell/HistoryTest.java
+ org.emulator.core.shell.HistoryTest
+org/emulator/core/shell/FileSystemTest.java
+ org.emulator.core.shell.FileSystemTest
+org/emulator/core/shell/CdTest.java
+ org.emulator.core.shell.CdTest
+org/emulator/core/shell/PwdTest.java
+ org.emulator.core.shell.PwdTest
+org/emulator/core/shell/CatTest.java
+ org.emulator.core.shell.CatTest
+org/emulator/core/shell/LsTest.java
+ org.emulator.core.shell.LsTest
+org/emulator/core/shell/ShellTest.java
+ org.emulator.core.shell.ShellTest
+org/emulator/core/shell/FindTest.java
+ org.emulator.core.shell.FindTest
+org/emulator/core/shell/EchoTest.java
+ org.emulator.core.shell.EchoTest
+org/emulator/core/shell/MkdirTest.java
+ org.emulator.core.shell.MkdirTest

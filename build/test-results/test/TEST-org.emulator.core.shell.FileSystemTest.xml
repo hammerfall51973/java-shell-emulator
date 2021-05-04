@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.emulator.core.shell.FileSystemTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-05-04T15:05:50" hostname="Tonys-MacBook-Air.local" time="0.007">
+  <properties/>
+  <testcase name="testCdParent" classname="org.emulator.core.shell.FileSystemTest" time="0.002"/>
+  <testcase name="testTraversePathExists" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testAddChildGetChildFile" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testCdParentCurrentDirectoryNotRoot" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testSingleton" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testAddChildGetChildDir" classname="org.emulator.core.shell.FileSystemTest" time="0.001"/>
+  <testcase name="testTravsersePathDoesntExist" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testAddChildGetChildFileChildExists" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testAddChildGetChildDirChildExists" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testTraverseAbsolutePath" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testTraverseRoot" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testIsRoot" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <testcase name="testTraverseRelativePath" classname="org.emulator.core.shell.FileSystemTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

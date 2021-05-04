@@ -1,0 +1,76 @@
+org/emulator/core/shell/commands/Pushd.java
+ org.emulator.core.shell.commands.Pushd
+org/emulator/core/shell/helpers/StandardOutput.java
+ org.emulator.core.shell.helpers.StandardOutput
+org/emulator/core/shell/helpers/Directory.java
+ org.emulator.core.shell.helpers.Directory
+org/emulator/core/shell/commands/Cat.java
+ org.emulator.core.shell.commands.Cat
+org/emulator/core/shell/ShellConstants.java
+ org.emulator.core.shell.ShellConstants
+org/emulator/core/shell/commands/Pwd.java
+ org.emulator.core.shell.commands.Pwd
+org/emulator/core/shell/Utils.java
+ org.emulator.core.shell.Utils
+org/emulator/core/shell/Shell.java
+ org.emulator.core.shell.Shell
+ org.emulator.core.shell.Shell$1
+ org.emulator.core.shell.Shell$ExitCodeMonitor
+ org.emulator.core.shell.Shell$ShellOutputHandler
+org/emulator/core/shell/helpers/File.java
+ org.emulator.core.shell.helpers.File
+org/emulator/core/shell/commands/Mkdir.java
+ org.emulator.core.shell.commands.Mkdir
+org/emulator/core/shell/helpers/Node.java
+ org.emulator.core.shell.helpers.Node
+org/emulator/core/shell/mockObjects/MockFileSystem.java
+ org.emulator.core.shell.mockObjects.MockFileSystem
+org/emulator/core/shell/interfaces/CommandInterface.java
+ org.emulator.core.shell.interfaces.CommandInterface
+org/emulator/core/shell/commands/Mv.java
+ org.emulator.core.shell.commands.Mv
+org/emulator/core/shell/commands/Cp.java
+ org.emulator.core.shell.commands.Cp
+org/emulator/core/shell/commands/Save.java
+ org.emulator.core.shell.commands.Save
+org/emulator/core/shell/interfaces/ParserInterface.java
+ org.emulator.core.shell.interfaces.ParserInterface
+ org.emulator.core.shell.interfaces.ParserInterface$1
+ org.emulator.core.shell.interfaces.ParserInterface$2
+org/emulator/core/shell/commands/Cd.java
+ org.emulator.core.shell.commands.Cd
+org/emulator/core/shell/interfaces/RemoteDataFetcher.java
+ org.emulator.core.shell.interfaces.RemoteDataFetcher
+org/emulator/core/shell/helpers/ErrorCheck.java
+ org.emulator.core.shell.helpers.ErrorCheck
+org/emulator/core/shell/helpers/StandardError.java
+ org.emulator.core.shell.helpers.StandardError
+org/emulator/core/shell/commands/History.java
+ org.emulator.core.shell.commands.History
+org/emulator/core/shell/helpers/FileSystem.java
+ org.emulator.core.shell.helpers.FileSystem
+org/emulator/core/shell/commands/Man.java
+ org.emulator.core.shell.commands.Man
+ org.emulator.core.shell.commands.Man$1
+org/emulator/core/shell/commands/Find.java
+ org.emulator.core.shell.commands.Find
+org/emulator/core/shell/commands/Speak.java
+ org.emulator.core.shell.commands.Speak
+org/emulator/core/shell/commands/Load.java
+ org.emulator.core.shell.commands.Load
+org/emulator/core/shell/commands/Rm.java
+ org.emulator.core.shell.commands.Rm
+org/emulator/core/shell/commands/Echo.java
+ org.emulator.core.shell.commands.Echo
+org/emulator/core/shell/helpers/Redirection.java
+ org.emulator.core.shell.helpers.Redirection
+org/emulator/core/shell/mockObjects/MockErrorCheck.java
+ org.emulator.core.shell.mockObjects.MockErrorCheck
+org/emulator/core/shell/mockObjects/MockPwd.java
+ org.emulator.core.shell.mockObjects.MockPwd
+org/emulator/core/shell/mockObjects/MockRemoteData.java
+ org.emulator.core.shell.mockObjects.MockRemoteData
+org/emulator/core/shell/commands/Ls.java
+ org.emulator.core.shell.commands.Ls
+org/emulator/core/shell/helpers/Parser.java
+ org.emulator.core.shell.helpers.Parser
